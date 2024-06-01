@@ -1,3 +1,6 @@
+![NotAGanesh Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=F09A16&text=NotAGanesh&textBg=false&fontColor=FFFFFF)
+
+
 ## About Me!
 - 🐑 an lazy sheep 
 - 🧑 Pronunciation: **He/Him** 
