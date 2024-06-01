@@ -1,7 +1,8 @@
-![NotAGanesh Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=F09A16&text=NotAGanesh&textBg=false&fontColor=FFFFFF)
+![NotAGanesh Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=ff7300&text=NotAGanesh&textBg=false&fontColor=FFFFFF)
 
 
 ## About Me!
+- 😁 Hello My Name is **Ganesh Patil** Aka **NotAGanesh**
 - 🐑 an lazy sheep 
 - 🧑 Pronunciation: **He/Him** 
 - ⚡ Passion: OptiNa Reborn/The Ultimate Iron Farm
