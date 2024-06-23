@@ -17,3 +17,9 @@
     - Legacy fork of OptiNa Reborn
 - **[THE ULTIMATE IRON FARM](https://www.planetminecraft.com/project/iron-farm-5845479/)**
     - an Simple & Modern Iron Farm for Minecraft: Java Edition
+
+## Status
+
+[![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=notaganesh)](https://github.com/NotAGanesh/NotAGanesh)
+
+Before you Judge, i'm a Beginner
